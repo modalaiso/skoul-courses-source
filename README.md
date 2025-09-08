@@ -113,7 +113,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
 | Espagnol | Probleme lors de la recuperation des cours (**27 lecons actuellement**) |
 | Francais | **26 lecons** |
-| Histoire-Geographie |  |
+| Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
 | Maths |  |
 | Philosophie |  |
 | Physique-Chimie |  |
