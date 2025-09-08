@@ -115,6 +115,34 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 | Francais | **26 lecons** |
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
 | Maths |  |
+| Philosophie | **9 lecons** et **3 competences** |
+| Physique-Chimie |  |
+| SVT |  |
+
+**Nombre totals de lecons**: ;
+
+**Nombre totals de fiches**: ;
+
+**Nombre totals de lecons manquantes**: ;
+
+---
+
+### 1ere C
+
+#### EPS
+>**Lecons manquantes** : Lecon 8.
+
+| Matieres | Nombres de lecons |
+|--------------|-------------|
+| Allemand |  |
+| Anglais |  |
+| Arts Plastiques | **10 lecons** |
+| Education Musicale | **13 lecons** |
+| EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
+| Espagnol |  |
+| Francais |  |
+| Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
+| Maths |  |
 | Philosophie |  |
 | Physique-Chimie |  |
 | SVT |  |
