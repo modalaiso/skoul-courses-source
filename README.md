@@ -1,4 +1,4 @@
-Sources des documents de cours (2nde[a/c], 1ere[a(a1/a2)/c/d], tle[a(a1/a2)/c/d])
+Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d))
 =
 
 ### Lien
