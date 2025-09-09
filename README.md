@@ -129,21 +129,27 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 
 ### 1ere C
 
+#### Espagnol
+>**Lecons manquantes** : Lecon 2 de la competence 6.
+
 #### EPS
 >**Lecons manquantes** : Lecon 8.
 
+#### MATHS
+>**Lecons manquantes** : Lecon 18 a 30.
+
 | Matieres | Nombres de lecons |
 |--------------|-------------|
-| Allemand |  |
+| Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
 | Anglais |  |
 | Arts Plastiques | **10 lecons** |
 | Education Musicale | **13 lecons** |
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
-| Espagnol |  |
-| Francais |  |
+| Espagnol | Probleme lors de la recuperation des cours (**27 lecons actuellement**) |
+| Francais | **26 lecons** |
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
-| Maths |  |
-| Philosophie |  |
+| Maths | **17 lecons** |
+| Philosophie | **9 lecons** et **3 competences** |
 | Physique-Chimie |  |
 | SVT |  |
 
@@ -157,21 +163,29 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 
 ### 1ere D
 
+> Attention sur la lecon 7 math 1ere D nom du PDF : **1cmathl2.pdf**
+
+#### Espagnol
+>**Lecons manquantes** : Lecon 2 de la competence 6.
+
 #### EPS
 >**Lecons manquantes** : Lecon 8.
 
+#### MATHS
+>**Lecons manquantes** : Lecon 14.
+
 | Matieres | Nombres de lecons |
 |--------------|-------------|
-| Allemand |  |
+| Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
 | Anglais |  |
 | Arts Plastiques | **10 lecons** |
 | Education Musicale | **13 lecons** |
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
-| Espagnol |  |
+| Espagnol | Probleme lors de la recuperation des cours (**27 lecons actuellement**) |
 | Francais |  |
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
-| Maths |  |
-| Philosophie |  |
+| Maths | Probleme lors de la recuperation des cours (**14 lecons actuellement**) |
+| Philosophie | **9 lecons** et **3 competences** |
 | Physique-Chimie |  |
 | SVT |  |
 
