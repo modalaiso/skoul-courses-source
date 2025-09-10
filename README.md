@@ -48,7 +48,7 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Physique-Chimie |  |
 | SVT | **9 lecons** |
 
-**Nombre totals de lecons**: 112;
+**Nombre totals de lecons obtenues**: 112;
 
 **Nombre totals de fiches**: 124;
 
@@ -85,7 +85,7 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Physique-Chimie | Probleme lors de la recuperation de la lecon 7 et 12 en physique (**21 lecons**) |
 | SVT | **14 lecons** |
 
-**Nombre totals de lecons**: 152;
+**Nombre totals de lecons obtenues**: 152;
 
 **Nombre totals de fiches**: 164;
 
@@ -119,14 +119,14 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
 | Maths | Probleme lors de la recuperation des cours (**6 lecons actuellement**) |
 | Philosophie | **9 lecons** et **3 competences** |
-| Physique-Chimie |  |
-| SVT |  |
+| Physique-Chimie | **Detail insuffisants pour ses cours** |
+| SVT | **Detail insuffisants pour ses cours** |
 
-**Nombre totals de lecons**: ;
+**Nombre totals de lecons obtenues**: 126;
 
-**Nombre totals de fiches**: ;
+**Nombre totals de fiches**: 139;
 
-**Nombre totals de lecons manquantes**: ;
+**Nombre totals de lecons manquantes**: 3;
 
 ---
 
@@ -159,13 +159,13 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Maths | **17 lecons** |
 | Philosophie | **9 lecons** et **3 competences** |
 | Physique-Chimie | Probleme lors de la recuperation des cours (**21 lecons actuellement**) 15 lecons en chimie, 13 lecon en physique |
-| SVT |  |
+| SVT | **Detail insuffisants pour ses cours** |
 
-**Nombre totals de lecons**: ;
+**Nombre totals de lecons obtenues**: 158;
 
-**Nombre totals de fiches**: ;
+**Nombre totals de fiches**: 168;
 
-**Nombre totals de lecons manquantes**: ;
+**Nombre totals de lecons manquantes**: 11;
 
 ---
 
@@ -200,10 +200,10 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Maths | Probleme lors de la recuperation des cours (**14 lecons actuellement**) |
 | Philosophie | **9 lecons** et **3 competences** |
 | Physique-Chimie | Probleme lors de la recuperation des cours (**21 lecons actuellement**) 15 lecons en chimie, 13 lecons en physique |
-| SVT |  |
+| SVT | **Detail insuffisants pour ses cours** |
 
-**Nombre totals de lecons**: ;
+**Nombre totals de lecons obtenues**: 155;
 
-**Nombre totals de fiches**: ;
+**Nombre totals de fiches**: 165;
 
-**Nombre totals de lecons manquantes**: ;
+**Nombre totals de lecons manquantes**: 10;
