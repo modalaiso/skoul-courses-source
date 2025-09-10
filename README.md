@@ -141,7 +141,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 | Matieres | Nombres de lecons |
 |--------------|-------------|
 | Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
-| Anglais |  |
+| Anglais | **8 unites** subdivisee en readind/writing/speaking/listening (2 fiches par unite) |
 | Arts Plastiques | **10 lecons** |
 | Education Musicale | **13 lecons** |
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
@@ -177,7 +177,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 | Matieres | Nombres de lecons |
 |--------------|-------------|
 | Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
-| Anglais |  |
+| Anglais | **8 unites** subdivisee en readind/writing/speaking/listening (2 fiches par unite) |
 | Arts Plastiques | **10 lecons** |
 | Education Musicale | **13 lecons** |
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
