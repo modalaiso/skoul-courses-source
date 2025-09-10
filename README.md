@@ -104,6 +104,9 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 #### Espagnol
 >**Lecons manquantes** : Lecon 2 de la competence 6.
 
+#### Maths
+>**Lecons manquantes** : Lecon 5.
+
 | Matieres | Nombres de lecons |
 |--------------|-------------|
 | Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
@@ -114,7 +117,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 | Espagnol | Probleme lors de la recuperation des cours (**27 lecons actuellement**) |
 | Francais | **26 lecons** |
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
-| Maths |  |
+| Maths | Probleme lors de la recuperation des cours (**6 lecons actuellement**) |
 | Philosophie | **9 lecons** et **3 competences** |
 | Physique-Chimie |  |
 | SVT |  |
@@ -135,7 +138,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 #### EPS
 >**Lecons manquantes** : Lecon 8.
 
-#### MATHS
+#### Maths
 >**Lecons manquantes** : Lecon 18 a 30.
 
 | Matieres | Nombres de lecons |
@@ -171,7 +174,7 @@ Sources des documents de cours (2nde(a/c), 1ere(a(a1/a2)/c/d), tle(a(a1/a2)/c/d)
 #### EPS
 >**Lecons manquantes** : Lecon 8.
 
-#### MATHS
+#### Maths
 >**Lecons manquantes** : Lecon 14.
 
 | Matieres | Nombres de lecons |
