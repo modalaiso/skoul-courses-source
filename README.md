@@ -141,6 +141,11 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 #### Maths
 >**Lecons manquantes** : Lecon 18 a 30.
 
+#### Physique-chimie
+>**Lecons manquantes** : 
+>>**Chimie** : Lecon 3, 12, 13, 14, 15.
+>>**Physique** : Lecon 2, 8.
+
 | Matieres | Nombres de lecons |
 |--------------|-------------|
 | Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
@@ -153,7 +158,7 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
 | Maths | **17 lecons** |
 | Philosophie | **9 lecons** et **3 competences** |
-| Physique-Chimie |  |
+| Physique-Chimie | Probleme lors de la recuperation des cours (**21 lecons actuellement**) 15 lecons en chimie, 13 lecon en physique |
 | SVT |  |
 
 **Nombre totals de lecons**: ;
@@ -177,6 +182,11 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 #### Maths
 >**Lecons manquantes** : Lecon 14.
 
+#### Physique-chimie
+>**Lecons manquantes** : 
+>>**Chimie** : Lecon 3, 12, 13, 14, 15.
+>>**Physique** : Lecon 2, 8.
+
 | Matieres | Nombres de lecons |
 |--------------|-------------|
 | Allemand | **3 lecons** subdiviser en 2 fiches par lecon *la lecon 3 qui possede 1 fiche* |
@@ -185,11 +195,11 @@ Sources des documents de cours (2nde(A/C), 1ere(A/C/D), tle(A/C/D))
 | Education Musicale | **13 lecons** |
 | EPS | **8 lecons** normalement **9** mais erreur lors de la recuperation de la lecon 8 |
 | Espagnol | Probleme lors de la recuperation des cours (**27 lecons actuellement**) |
-| Francais |  |
+| Francais | **26 lecons** |
 | Histoire-Geographie | Geo: **8 lecons**; Hist: **8 lecons** (**16 lecons**) formant 7 themes (4 theme geo; 3 theme hist) |
 | Maths | Probleme lors de la recuperation des cours (**14 lecons actuellement**) |
 | Philosophie | **9 lecons** et **3 competences** |
-| Physique-Chimie |  |
+| Physique-Chimie | Probleme lors de la recuperation des cours (**21 lecons actuellement**) 15 lecons en chimie, 13 lecons en physique |
 | SVT |  |
 
 **Nombre totals de lecons**: ;
